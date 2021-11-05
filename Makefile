@@ -1,3 +1,4 @@
+CC=g++
 CFLAGS=-c -Wall -O2
 
 all: libsensehat.a
