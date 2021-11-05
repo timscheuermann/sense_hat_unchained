@@ -1,6 +1,6 @@
 Sense Hat Unchained
 -------------------
-A C library to communicate with the LEDs and sensors on the Raspberry Pi
+A C/C++ library to communicate with the LEDs and sensors on the Raspberry Pi
 Sense Hat.
 ![Orange Pi Lite](/animated.gif?raw=true "Sense Hat set free")
 
